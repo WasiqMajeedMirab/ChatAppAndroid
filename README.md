@@ -16,6 +16,7 @@ D. Demo Video (A demonstration video about your project )
 A. we are attatching the link for all the assignments here only:
     https://drive.google.com/drive/u/1/folders/1VaHTz6FjObAwSJv_ZYIYIa9TD9uR3e5L
 
+   I have also created a folder in the same Git repo where i have uploaded all the 3 Assignments.
 
 B. Project files are already uploaded as specified above.
 
