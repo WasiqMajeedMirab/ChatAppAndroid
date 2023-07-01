@@ -23,7 +23,8 @@ B. Project files are already uploaded as specified above.
 C. Project Report is uploaded as PDF in the same Git Repository under the Project Report folder
 
 D. Demovideo YouTube Link is as follows:
-            https://youtu.be/b_758USw6u8
+            [https://youtu.be/b_758USw6u8](https://www.youtube.com/watch?v=b_758USw6u8)
+            the youtube video quality is not too good but it can serve the reason.
 
-we have also uploaded the vdeo in this repo also under demonstration directory.
+we could not upload the video for the same in our git repo because github doesn't allow more than 25MB but our video was 346MB.
     
